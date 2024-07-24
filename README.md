@@ -1,0 +1,1 @@
+Hello stranger. I am learning all facets of unity. It's weird you are reading this but I won't stop you. I typically add descriptions to my commits so maybe that'll be story enough for you. Enjoy fellow human.
